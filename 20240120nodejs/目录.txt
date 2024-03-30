@@ -1,0 +1,383 @@
+                        "page": 1,
+
+                        "part": "00.学习目标",
+
+                        "page": 2,
+
+                        "part": "01.初识Node-浏览器中的JavaScript运行环境",
+
+                        "page": 3,
+
+                        "part": "02.初识Node-什么是Node.js",
+
+                        "page": 4,
+
+                        "part": "03.初识Node-安装Node.js",
+
+                        "page": 5,
+
+                        "part": "04.初识Node-使用Node运行JS代码",
+
+                        "page": 6,
+
+                        "part": "05.fs-读取文件内容",
+
+                        "page": 7,
+
+                        "part": "06.fs-写入文件内容",
+
+                        "page": 8,
+
+                        "part": "07.fs-整理成绩的案例",
+
+                        "page": 9,
+
+                        "part": "08.fs-处理路径问题",
+
+                        "page": 10,
+
+                        "part": "09.path-使用path模块处理路径",
+
+                        "page": 11,
+
+                        "part": "10.时钟案例-分析需求&读取文件内容",
+
+                        "page": 12,
+
+                        "part": "11.时钟案例-处理CSS、JS、HTML",
+
+                        "page": 13,
+
+                        "part": "12.时钟案例-时钟案例的两个注意点",
+
+                        "page": 14,
+
+                        "part": "01.http-理解http模块的概念及作用",
+
+                        "page": 15,
+
+                        "part": "02.http-服务器相关的概念",
+
+                        "page": 16,
+
+                        "part": "03.http-创建最基本的web服务器",
+
+                        "page": 17,
+
+                        "part": "04.http-根据不同的url响应不同的html内容",
+
+                        "page": 18,
+
+                        "part": "05.http-时钟web服务器案例",
+
+                        "page": 19,
+
+                        "part": "06.模块化-模块化的概念",
+
+                        "page": 20,
+
+                        "part": "07.模块化-模块的分类&require的使用",
+
+                        "page": 21,
+
+                        "part": "08.模块化-模块作用域和module对象",
+
+                        "page": 22,
+
+                        "part": "09.模块化-module.exports对象的使用",
+
+                        "page": 23,
+
+                        "part": "10.模块化-exports对象",
+
+                        "page": 24,
+
+                        "part": "11.模块化-exports和module.exports的使用误区",
+
+                        "page": 25,
+
+                        "part": "12.模块化-CommonJS模块化规范",
+
+                        "page": 26,
+
+                        "part": "13.包与npm-包的概念",
+
+                        "page": 27,
+
+                        "part": "14.包与npm-格式化时间的两种做法",
+
+                        "page": 28,
+
+                        "part": "15.包与npm-使用npm的其它注意点",
+
+                        "page": 29,
+
+                        "part": "01.包管理配置文件",
+
+                        "page": 30,
+
+                        "part": "02.解决下包慢的问题",
+
+                        "page": 31,
+
+                        "part": "03.包的分类&规范的包结构",
+
+                        "page": 32,
+
+                        "part": "04.发布包-初始化基础的包结构",
+
+                        "page": 33,
+
+                        "part": "05.发布包-格式化时间&main属性",
+
+                        "page": 34,
+
+                        "part": "06.发布包-转义&还原HTML的方法",
+
+                        "page": 35,
+
+                        "part": "07.发布包-模块化拆分&编写包的使用说明文档",
+
+                        "page": 36,
+
+                        "part": "08.发布包-把包发布到npm",
+
+                        "page": 37,
+
+                        "part": "09.模块的加载机制",
+
+                        "page": 38,
+
+                        "part": "10.express-认识express并创建基本额web服务器",
+
+                        "page": 39,
+
+                        "part": "11.express-监听GET和POST请求&处理参数",
+
+                        "page": 40,
+
+                        "part": "12.express-静态资源处理",
+
+                        "page": 41,
+
+                        "part": "13.express-安装并使用nodemon",
+
+                        "page": 42,
+
+                        "part": "01.路由-初识express中的路由",
+
+                        "page": 43,
+
+                        "part": "02.路由-路由的模块化",
+
+                        "page": 44,
+
+                        "part": "03.中间件-中间件的概念与格式",
+
+                        "page": 45,
+
+                        "part": "04.中间件-全局生效的中间件",
+
+                        "page": 46,
+
+                        "part": "05.中间件-局部生效的中间件",
+
+                        "page": 47,
+
+                        "part": "06.中间件-中间件的5个注意事项",
+
+                        "page": 48,
+
+                        "part": "07.中间件-中间件的分类",
+
+                        "page": 49,
+
+                        "part": "08.中间件-自定义中间件",
+
+                        "page": 50,
+
+                        "part": "09.编写接口-创建基本的服务器&创建API路由模块",
+
+                        "page": 51,
+
+                        "part": "10.编写接口-编写GET接口",
+
+                        "page": 52,
+
+                        "part": "11.编写接口-编写POST接口",
+
+                        "page": 53,
+
+                        "part": "12.编写接口-基于cors解决接口跨域问题",
+
+                        "page": 54,
+
+                        "part": "13.跨域-cors相关的三个响应头",
+
+                        "page": 55,
+
+                        "part": "14.跨域-cors的简单请求与预检请求",
+
+                        "page": 56,
+
+                        "part": "15.跨域-编写jsonp接口",
+
+                        "page": 57,
+
+                        "part": "00.学习目标",
+
+                        "page": 58,
+
+                        "part": "01.数据库的基本概念",
+
+                        "page": 59,
+
+                        "part": "02.安装MySQL数据库",
+
+                        "page": 60,
+
+                        "part": "03.MySQL-Workbench的基本用法",
+
+                        "page": 61,
+
+                        "part": "04.创建数据库和表",
+
+                        "page": 62,
+
+                        "part": "05.了解什么是SQL",
+
+                        "page": 63,
+
+                        "part": "06.SQL语句-select、insert、update、delete",
+
+                        "page": 64,
+
+                        "part": "07.SQL语句-where子句、and和or运算符",
+
+                        "page": 65,
+
+                        "part": "08.SQL语句-排序",
+
+                        "page": 66,
+
+                        "part": "09.SQL语句-count函数和as关键字",
+
+                        "page": 67,
+
+                        "part": "10.SQL语句-演示如何保存和打开.sql的文件",
+
+                        "page": 68,
+
+                        "part": "11.mysql模块-安装并配置mysql模块",
+
+                        "page": 69,
+
+                        "part": "12.mysql模块-查询和插入数据",
+
+                        "page": 70,
+
+                        "part": "13.mysql模块-更新和删除数据",
+
+                        "page": 71,
+
+                        "part": "01.web开发模式",
+
+                        "page": 72,
+
+                        "part": "02.身份认证的概念",
+
+                        "page": 73,
+
+                        "part": "03.session原理",
+
+                        "page": 74,
+
+                        "part": "04.session中间件的使用",
+
+                        "page": 75,
+
+                        "part": "05.jwt-了解token的原理",
+
+                        "page": 76,
+
+                        "part": "06.jwt-在express中生成token",
+
+                        "page": 77,
+
+                        "part": "07.项目-初始化项目",
+
+                        "page": 78,
+
+                        "part": "08.项目-初始化路由模块",
+
+                        "page": 79,
+
+                        "part": "09.项目-开发注册用户的API接口",
+
+                        "page": 80,
+
+                        "part": "10.项目-代码优化",
+
+                        "page": 81,
+
+                        "part": "01.项目-开发登录的API接口",
+
+                        "page": 82,
+
+                        "part": "02.项目-token的生成与验证",
+
+                        "page": 83,
+
+                        "part": "03.项目-开发获取用户的基本信息的接口",
+
+                        "page": 84,
+
+                        "part": "04.项目-开发更新用户的基本信息的接口",
+
+                        "page": 85,
+
+                        "part": "05.项目-开发重置密码的接口",
+
+                        "page": 86,
+
+                        "part": "06.项目-开发更换头像的接口",
+
+                        "page": 87,
+
+                        "part": "07.总结",
+
+                        "page": 88,
+
+                        "part": "01.新建ev_article_cate数据表",
+
+                        "page": 89,
+
+                        "part": "02.项目-开发获取文章分类列表的接口",
+
+                        "page": 90,
+
+                        "part": "03.项目-开发新增文章分类的接口",
+
+                        "page": 91,
+
+                        "part": "04.项目-开发根据id删除文章分类的接口",
+
+                        "page": 92,
+
+                        "part": "05.项目-开发根据id获取文章分类的接口",
+
+                        "page": 93,
+
+                        "part": "06.项目-开发根据id更新文章分类的接口",
+
+                        "page": 94,
+
+                        "part": "07.新建ev_articles文章表",
+
+                        "page": 95,
+
+                        "part": "08.项目-初始化发布文章的路由模块",
+
+                        "page": 96,
+
+                        "part": "09.演示API接口的使用",

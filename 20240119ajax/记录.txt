@@ -1,0 +1,18 @@
+nodejs下载zip解压后添加环境变量
+node -v检查版本
+
+node config get cache获取缓存路径
+node运行过程中会产生缓存，保存在此位置
+
+node config get prefix获取全局下载位置
+npm i nodemon -g会将nodemon下载在全局位置
+
+配置路径
+node config set cache "D:\node_cache"
+node config set prefix "D:\node_global"
+
+配置镜像
+npm config get registry
+npm config set registry=https://registry.npmmirror.com
+
+如果是zip解压安装，nodemon也要添加环境变量，此时指定node_global路径即可
